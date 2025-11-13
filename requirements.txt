@@ -1,0 +1,11 @@
+streamlit
+yfinance
+prophet
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+requests
+pillow
+pyarrow
